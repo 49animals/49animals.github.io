@@ -1,0 +1,21 @@
+#header{
+    text-align: center;
+    color: magenta;
+}
+body{
+    background-color: aquamarine;
+}
+header{
+    background-color: blueviolet;
+    height: 100px;
+}
+a {
+    color: yellow;
+    background-color: brown;
+}
+#bob {
+    height: 300px;
+}
+#blue {
+    color: blue;
+}
